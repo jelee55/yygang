@@ -1,4 +1,3 @@
-
 CREATE DATABASE IF NOT EXISTS `yygang_demo_db4` ;
 USE `yygang_demo_db4`;
 
